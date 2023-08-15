@@ -1,0 +1,9 @@
+* loop-continue
+
+Extension to the CL:LOOP macro: CONTINUE, TAG, GO.
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/Gleefre/loop-continue.git |
+| commit  | 18125a6                                          |
+| systems | loop-continue                                    |
+|---------+--------------------------------------------------|
